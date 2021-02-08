@@ -12,3 +12,4 @@ Sometimes it helps to formulate what you understood and where you got stuck in o
 If you find you're not able complete this week's assignment, reflecting on where you are getting stuck here will help you get full credit for this week's tutorial
 
 ------------
+I keep getting stuck on 3. On GitHub, navigate to your fork of the repository and clone it to your local computer.! 
