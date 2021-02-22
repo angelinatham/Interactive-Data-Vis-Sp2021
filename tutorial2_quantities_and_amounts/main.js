@@ -33,9 +33,9 @@ d3.csv('../data/squirrelActivities.csv', d3.autoType)
 
     
 // CONSTANTS
-const width = window.innerWidth*.8;
-const height =  window.innerHeight*.75;
-const margins = { top: 15, bottom: 15, left: 60, right: 60}
+const width = window.innerWidth*.4;
+const height =  window.innerHeight*.6;
+const margins = { top: 20, bottom: 20, left: 90, right: 90}
 const color = d3.scaleSequential()//IDK WHY I CAN'T CHANGE THIS WITHOUT RUINING EVERYTHING
     .domain([0, d3.max(data, d => d.count)])
 
