@@ -1,0 +1,31 @@
+body{
+
+    background-color: #2b2a2a;
+    color:#ffffff;
+    font-size: 20px;
+    
+}
+
+#dropdown{
+
+    width:30%;
+    border:1px solid #d3d3d3;
+    background-color: #520dc2;
+    color:#ffffff;
+    font-size: 20px;
+  
+    
+}
+
+option{
+    background-color: #2b2a2a;
+    color:#ffffff;
+    font-size: 20px;
+   
+
+}
+#label-text{
+    background-color: #2b2a2a;
+    color:#ffffff;
+    font-size: 20px;
+
